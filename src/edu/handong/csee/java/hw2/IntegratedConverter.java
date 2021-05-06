@@ -7,6 +7,7 @@ import edu.handong.csee.java.hw2.converters.*; // You will learn the import stat
 /**
  * @author KIM KOEUN <22000050@handong.edu>
  * This is IntergratedConverter class that convert numbers
+ * Date: 2021.05.06
  */
 public class IntegratedConverter {
 
